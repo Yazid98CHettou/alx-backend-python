@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""0. Basic annotations - add"""
+"""
+Basic annotations - add
+"""
+
+
 def add(a: float, b: float) -> float:
-    """ Add two integers together."""
+    """
+    function to add two floats
+    """
     return a + b
